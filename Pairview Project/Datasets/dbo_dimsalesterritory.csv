@@ -1,0 +1,12 @@
+,SalesTerritoryKey,SalesTerritoryAlternateKey,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup,SalesTerritoryImage
+0,1.0,1.0,Northwest,United States,North America,
+1,2.0,2.0,Northeast,United States,North America,
+2,3.0,3.0,Central,United States,North America,
+3,4.0,4.0,Southwest,United States,North America,
+4,5.0,5.0,Southeast,United States,North America,
+5,6.0,6.0,Canada,Canada,North America,
+6,7.0,7.0,France,France,Europe,
+7,8.0,8.0,Germany,Germany,Europe,
+8,9.0,9.0,Australia,Australia,Pacific,
+9,10.0,10.0,United Kingdom,United Kingdom,Europe,
+10,11.0,0.0,NA,NA,NA,
