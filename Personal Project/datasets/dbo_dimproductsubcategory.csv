@@ -1,0 +1,38 @@
+,ProductSubcategoryKey,ProductSubcategoryAlternateKey,EnglishProductSubcategoryName,SpanishProductSubcategoryName,FrenchProductSubcategoryName,ProductCategoryKey
+0,1.0,1.0,Mountain Bikes,Bicicleta de montaña,VTT,1.0
+1,2.0,2.0,Road Bikes,Bicicleta de carretera,Vélo de route,1.0
+2,3.0,3.0,Touring Bikes,Bicicleta de paseo,Vélo de randonnée,1.0
+3,4.0,4.0,Handlebars,Barra,Barre d'appui,2.0
+4,5.0,5.0,Bottom Brackets,Eje de pedalier,Axe de pédalier,2.0
+5,6.0,6.0,Brakes,Frenos,Freins,2.0
+6,7.0,7.0,Chains,Cadena,Chaîne,2.0
+7,8.0,8.0,Cranksets,Bielas,Pédalier,2.0
+8,9.0,9.0,Derailleurs,Desviador,Dérailleur,2.0
+9,10.0,10.0,Forks,Horquilla,Fourche,2.0
+10,11.0,11.0,Headsets,Dirección,Jeu de direction,2.0
+11,12.0,12.0,Mountain Frames,Cuadro de montaña,Cadre de VTT,2.0
+12,13.0,13.0,Pedals,Pedal,Pédale,2.0
+13,14.0,14.0,Road Frames,Cuadro de carretera,Cadre de vélo de route,2.0
+14,15.0,15.0,Saddles,Sillín,Selle,2.0
+15,16.0,16.0,Touring Frames,Cuadro de paseo,Cadre de vélo de randonnée,2.0
+16,17.0,17.0,Wheels,Rueda,Roue,2.0
+17,18.0,18.0,Bib-Shorts,Culote corto,Cuissards avec bretelles,3.0
+18,19.0,19.0,Caps,Gorra,Casquette,3.0
+19,20.0,20.0,Gloves,Guantes,Gants,3.0
+20,21.0,21.0,Jerseys,Jersey,Maillot,3.0
+21,22.0,22.0,Shorts,Pantalones cortos,Cuissards,3.0
+22,23.0,23.0,Socks,Calcetines,Chaussettes,3.0
+23,24.0,24.0,Tights,Mallas,Collants,3.0
+24,25.0,25.0,Vests,Camiseta,Veste,3.0
+25,26.0,26.0,Bike Racks,Portabicicletas,Porte-vélo,4.0
+26,27.0,27.0,Bike Stands,Soporte para bicicletas,Range-vélo,4.0
+27,28.0,28.0,Bottles and Cages,Portabotellas y botella,Bidon et porte-bidon,4.0
+28,29.0,29.0,Cleaners,Limpiador,Nettoyant,4.0
+29,30.0,30.0,Fenders,Guardabarros,Garde-boue,4.0
+30,31.0,31.0,Helmets,Casco,Casque,4.0
+31,32.0,32.0,Hydration Packs,Sistema de hidratación,Sac d'hydratation,4.0
+32,33.0,33.0,Lights,Luz,�?clairage,4.0
+33,34.0,34.0,Locks,Candado,Antivol,4.0
+34,35.0,35.0,Panniers,Cesta,Sacoche,4.0
+35,36.0,36.0,Pumps,Bomba,Pompe,4.0
+36,37.0,37.0,Tires and Tubes,Cubierta y cámara,Pneu et chambre à air,4.0
