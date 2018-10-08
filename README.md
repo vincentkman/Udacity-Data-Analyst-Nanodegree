@@ -2,7 +2,7 @@
 
 ## Udacity Projects 
 
-## Explore Weather Trends
+## [Explore Weather Trends](https://github.com/vincentman2702/Udacity-Data-Analyst-Nanodegree/tree/master/Udacity%20Project/Explore%20Weather%20Trends%20-%20SQL%20MS%20Excel)
 Use SQL Server to manipulate the dataset and then use Microsoft Excel to compare the local temperature of Shanghai (China) to the global temperature and find out the temperature trends. 
 
 ## Test a Perceptual Phenomenon 
