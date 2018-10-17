@@ -14,7 +14,7 @@ Use R to perform EDA (exploratory data analysis) to analyse the Prosper dataset 
 ## [Data Wrangling](https://github.com/vincentman2702/Udacity-Data-Analyst-Nanodegree/tree/master/Udacity%20Project/Python%20-%20Wrangle%20and%20Analyse%20Data) 
 To wrangle the Twitter data from WeRateDogs and gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it as well as showcase my wrangling efforts through analyses and visualisations. 
 
-## [Create a Tableau Story](https://github.com/vincentman2702/Udacity-Data-Analyst-Nanodegree/tree/master/Udacity%20Project/Tableau%20-%20Create%20a%20Tableau%20Story)
+## [Create a Tableau Story](https://public.tableau.com/profile/vincent.man1586#!/vizhome/Udacityflightdata/Story?publish=yes)
 Create a Tableau data visualisation from Transtats – Bureau of Transportation Statistics data set and tell a story or highlight trends or patterns on the data.
 
 
